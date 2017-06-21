@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="4f24c339-c1b6-4719-ba73-9fb879649bfe" name="farrah.timeweb.ru" url="http://vellart.vallie.ru">
+        <fileTransfer host="farrah.timeweb.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
