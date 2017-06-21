@@ -4,7 +4,7 @@
       <webServer id="5c37e2df-cd85-484d-9566-3f21ac9628c4" name="farrah.timeweb.ru" url="http://vellart.vallie.ru">
         <fileTransfer host="farrah.timeweb.ru" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
