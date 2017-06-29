@@ -1,10 +1,10 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0794d63f-856e-4f1d-8f06-703e2a228071" name="vh56.timeweb.ru" url="http://92.53.96.115">
-        <fileTransfer host="92.53.96.115" port="21">
+      <webServer id="5c37e2df-cd85-484d-9566-3f21ac9628c4" name="farrah.timeweb.ru" url="http://vellart.vallie.ru">
+        <fileTransfer host="farrah.timeweb.ru" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
