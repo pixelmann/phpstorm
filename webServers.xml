@@ -17,7 +17,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="710a24de-16ca-49ba-963f-565bbb02c924" name="vallie.ru" url="http://farrah.timeweb.ru">
+      <webServer id="710a24de-16ca-49ba-963f-565bbb02c924" name="vallie.ru" url="http://vallie.ru">
         <fileTransfer host="farrah.timeweb.ru" port="21" rootFolder="/vallie.ru/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
