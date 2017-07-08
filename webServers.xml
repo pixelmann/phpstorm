@@ -9,6 +9,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="80787ebe-e63f-448c-b5b5-e89c866a9c94" name="mensforce.com" url="http://mensforce.com">
+        <fileTransfer host="vh56.timeweb.ru" port="21" rootFolder="/mensforce.com/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
