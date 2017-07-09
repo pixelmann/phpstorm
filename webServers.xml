@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="786ae65c-bcb9-42d5-99a1-2676c1125aaf" name="cycleinfo.net" url="https://cycleinfo.net/">
+        <fileTransfer host="farrah.timeweb.ru" port="21" rootFolder="/cycleinfo.net/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
