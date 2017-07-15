@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="226bd1f7-079d-4481-817e-68514eb734a5" name="devweb.tw1.ru" url="http://devweb.tw1.ru/">
+        <fileTransfer host="vh56.timeweb.ru" port="21" rootFolder="/devweb.tw1.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="5c37e2df-cd85-484d-9566-3f21ac9628c4" name="farrah.timeweb.ru" url="http://vellart.vallie.ru">
         <fileTransfer host="farrah.timeweb.ru" port="21">
           <advancedOptions>
