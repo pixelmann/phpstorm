@@ -1,4 +1,14 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="E:\OpenServer\modules\php\PHP-5.3\php.exe" id="99d4949f-635f-47a6-bc88-9832a0495373" name="PHP 5.3" debugger_id="php.debugger.XDebug" />
