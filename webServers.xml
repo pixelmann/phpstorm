@@ -1,24 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="a1963bb8-cd04-4d48-8c43-3a0b1b9e513f" name="vh56.timeweb.ru" url="http://vh56.timeweb.ru">
-        <fileTransfer host="vh56.timeweb.ru" port="21" rootFolder="/mensforce.com/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b7a2cc17-472c-4432-8638-64402e6d990f" name="mensforce.com" url="https://mensforce.com">
-        <fileTransfer host="vh56.timeweb.ru" port="21" rootFolder="/mensforce.com/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="710a24de-16ca-49ba-963f-565bbb02c924" name="vallie.ru" url="http://vallie.ru">
-        <fileTransfer host="farrah.timeweb.ru" port="21" rootFolder="/vallie.ru/public_html">
+      <webServer id="5c37e2df-cd85-484d-9566-3f21ac9628c4" name="farrah.timeweb.ru" url="http://vellart.vallie.ru">
+        <fileTransfer host="farrah.timeweb.ru" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
