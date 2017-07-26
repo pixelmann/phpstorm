@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="bfdcc231-4151-42a4-b8d7-7c932751ca8a" name="devweb.tw1.ru" url="http://vh56.timeweb.ru">
+        <fileTransfer host="vh56.timeweb.ru" port="21" rootFolder="/devweb.tw1.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
