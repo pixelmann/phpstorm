@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ea76cbe5-6b47-4d49-aca8-a7ca7ddd19af" name="phobia.online" url="http://farrah.timeweb.ru">
+        <fileTransfer host="farrah.timeweb.ru" port="21" rootFolder="/phobia.online/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
