@@ -49,6 +49,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c46311d1-8343-4e32-8d87-457e04d441f5" name="detektiv-skaut.ru" url="http://detektiv-skaut.ru/">
+        <fileTransfer host="vh48.timeweb.ru" port="21" rootFolder="/detektiv-skaut.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
